@@ -17,7 +17,7 @@ define('HOME_URL', $site_url . 'myphp/github-php-contact-form/contact/');
 
 // *** 「your_address@example.com」を必ず変更してください！！！
 // 自動返信メールの管理者メールアドレス
-define('ADMIN_MAIL', 'your_address@example.com');
+define('ADMIN_MAIL', 'info@kensuke537.com');
 
 // HTMlエスケープ
 function h($str) {
