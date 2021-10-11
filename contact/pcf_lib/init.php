@@ -13,7 +13,7 @@ session_start();
 // *** 「myphp/github-php-contact-form/contact/」を環境に合わせて必ず変更してください！！！
 // http://(またはhttps://)からホストまでを取得
 $site_url = (empty($_SERVER['HTTPS']) ? 'http://' : 'https://') . $_SERVER['HTTP_HOST'] . '/';
-define('HOME_URL', $site_url . 'myphp/github-php-contact-form/contact/');
+define('HOME_URL', $site_url . 'kensuke537/myphp/github-php-contact-form/contact/');
 
 // *** 「your_address@example.com」を必ず変更してください！！！
 // 自動返信メールの管理者メールアドレス
